@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="continue_button">Продолжить</string>
+    <string name="input_phone">Введите свой номер телефона</string>
+    <string name="input_code">Введите код из СМС</string>
+    <string name="result_success">Здравствуйте, %1$s\nВаш токен:\n%2$s</string>
+    <string name="result_failure">Неправильный код</string>
+    <string name="resend_code">Выслать код снова</string>
+</resources>

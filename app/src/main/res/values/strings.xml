@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">RightDeedTest</string>
+
+    <string name="continue_button">Continue</string>
+    <string name="input_phone">Enter your phone number</string>
+    <string name="input_code">Enter code from the SMS</string>
+    <string name="result_success">Hello, %1$s\nYour token is:\n%2$s</string>
+    <string name="result_failure">Incorrect code</string>
+    <string name="resend_code">Send the code again</string>
+</resources>
